@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://MalekAshraf.github.io/test",
+  "homepage": "https://MalekAshraf.github.io/Munnich.IT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
